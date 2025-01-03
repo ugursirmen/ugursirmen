@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Software Architecture & Design, DevOps, Cloud Native and Web3 Products**
 
-- 📫 How to reach me **ugur@mintlabs.dev**
+- 📫 How to reach me **ugur@feedprotocol.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

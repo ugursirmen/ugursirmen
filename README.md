@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ugursirmen" target="blank"><img src="https://img.shields.io/twitter/follow/ugursirmen?logo=twitter&style=for-the-badge" alt="ugursirmen" /></a> </p>
 
-- 🔭 I’m currently working on [Feed Protocol](https://feedprotocol.xyz/)
+- 🔭 I’m currently working on [Grand App](https://www.itsgrand.app/)
 
 - 💬 Ask me about **Software Architecture & Design, DevOps, Cloud Native and Web3 Products**
 

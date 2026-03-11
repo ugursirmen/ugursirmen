@@ -6,7 +6,10 @@
 
 ###
 
-<p align="left">Technical Co-Founder of Grand Labs Inc. with over 10 years of experience in software development. Proven track record of leading mid-to-large engineering teams and delivering innovative solutions across Blockchain, SaaS, and DevOps. Deep expertise in software engineering, engineering management, and distributed systems. Product-driven and business-focused, with a strong ability to align technical execution with strategic objectives to drive measurable impact. One Piece fan, rock ‘n’ roller, stargazer.</p>
+<p align="left">Open-minded technology leader with 12+ years of experience building and scaling software products.
+Expert in leading cross-functional engineering teams through the full lifecycle of Fintech, SaaS, and DevOps
+solutions. Passionate about aligning technical architecture with business strategy to deliver high-impact
+results. Beyond the code: One Piece fan, old school rocker, and stargazer.</p>
 
 ###
 

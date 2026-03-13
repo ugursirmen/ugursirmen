@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Open-minded technology leader with 12+ years of experience building and scaling software products.
+<p align="left">Product minded technology leader with 12+ years of experience building and scaling software products.
 Expert in leading cross-functional engineering teams through the full lifecycle of Fintech, SaaS, and DevOps
 solutions. Passionate about aligning technical architecture with business strategy to deliver high-impact
 results. Beyond the code: One Piece fan, old school rocker, and stargazer.</p>
